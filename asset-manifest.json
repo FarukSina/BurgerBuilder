@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FarukSina/BurgerBuilder.git/static/css/main.dc6e0f78.chunk.css",
+    "main.js": "/FarukSina/BurgerBuilder.git/static/js/main.a71d9110.chunk.js",
+    "main.js.map": "/FarukSina/BurgerBuilder.git/static/js/main.a71d9110.chunk.js.map",
+    "runtime-main.js": "/FarukSina/BurgerBuilder.git/static/js/runtime-main.e88bcab8.js",
+    "runtime-main.js.map": "/FarukSina/BurgerBuilder.git/static/js/runtime-main.e88bcab8.js.map",
+    "static/js/2.e7bd2b9a.chunk.js": "/FarukSina/BurgerBuilder.git/static/js/2.e7bd2b9a.chunk.js",
+    "static/js/2.e7bd2b9a.chunk.js.map": "/FarukSina/BurgerBuilder.git/static/js/2.e7bd2b9a.chunk.js.map",
+    "index.html": "/FarukSina/BurgerBuilder.git/index.html",
+    "precache-manifest.3ec33baff23b159af6d262604b1f3ab2.js": "/FarukSina/BurgerBuilder.git/precache-manifest.3ec33baff23b159af6d262604b1f3ab2.js",
+    "service-worker.js": "/FarukSina/BurgerBuilder.git/service-worker.js",
+    "static/css/main.dc6e0f78.chunk.css.map": "/FarukSina/BurgerBuilder.git/static/css/main.dc6e0f78.chunk.css.map",
+    "static/js/2.e7bd2b9a.chunk.js.LICENSE": "/FarukSina/BurgerBuilder.git/static/js/2.e7bd2b9a.chunk.js.LICENSE",
+    "static/media/burger-logo.png": "/FarukSina/BurgerBuilder.git/static/media/burger-logo.b8503d26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e88bcab8.js",
+    "static/js/2.e7bd2b9a.chunk.js",
+    "static/css/main.dc6e0f78.chunk.css",
+    "static/js/main.a71d9110.chunk.js"
+  ]
+}
